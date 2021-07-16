@@ -1,5 +1,5 @@
-# Ignore checkpoints
-source/.ipynb_checkpoints
-
-# Ignore data
 data/
+mlruns/
+utilities/__pycache__/
+utilities/saved_models/
+model_selection.html 
